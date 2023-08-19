@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+
+-e .
+
+## why we run requirements.txt due to -e .  setup.py file will be triggered
